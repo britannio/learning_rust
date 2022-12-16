@@ -10,8 +10,9 @@
 // mod functions;
 // mod pointer_ref;
 // mod structs;
-mod enums;
+// mod enums;
+mod cli;
 
 fn main() {
-    enums::run();
+    cli::run();
 }
