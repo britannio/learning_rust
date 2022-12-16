@@ -1,5 +1,9 @@
 # Learning rust
 
+Based on https://youtu.be/zF34dRivLOw.
+
+## Note to self
+
 `rustc file.rs` to compile a rust file
 
 `cargo init` to create a project

@@ -15,5 +15,6 @@ fn greeting(greet: &str, name: &str) {
 }
 
 fn add(n1: i32, n2: i32) -> i32 {
+    // Omit semi-colon from last expression to return it.
     n1 + n2
 }
