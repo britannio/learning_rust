@@ -8,6 +8,8 @@ pub fn run() {
     let z: i64 = 463722837;
 
     // Find max size
+    println!("min i8: {}", std::i8::MIN);
+    println!("max i8: {}", std::i8::MAX);
     println!("max i32: {}", std::i32::MAX);
     println!("max i64: {}", std::i64::MAX);
 
