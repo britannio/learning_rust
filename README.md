@@ -1,6 +1,6 @@
 # Learning rust
 
-Based on https://youtu.be/zF34dRivLOw.
+Based on https://youtu.be/zF34dRivLOw and the [rust book](https://rust-book.cs.brown.edu/).
 
 ## Note to self
 
